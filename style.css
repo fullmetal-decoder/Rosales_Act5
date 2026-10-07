@@ -1,0 +1,29 @@
+body {
+  background-color: lightcyan;
+  color: black;
+  text-align: left;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+h2 {
+  color: darkblue;
+  text-align: left;
+}
+
+h3 {
+  color: teal;
+  text-align: left;
+}
+
+p {
+  color: black;
+  text-align: left;
+}
+
+a {
+  color: crimson;
+}
